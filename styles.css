@@ -1,0 +1,123 @@
+
+
+/*PROJETO DEVCLUB*/
+
+*{
+    font-family: "Montserrat", sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.img-logo{
+    width: 580px;
+    height: 500px;
+    margin-left: 125px;
+    display: inline-block;
+}   
+
+section {
+    display: inline-block;
+    margin-left: 86px;
+    padding: 0px 1px;
+    position: absolute;
+    top: 209px;
+    padding-top: 12px;
+}
+
+
+header {
+    margin: 44px 0px 144px 76px
+}
+
+.link-header{
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 29px;
+    color: #989d9c;
+    cursor: pointer; 
+    margin-right: 23px;
+}
+
+.button-header{
+    background: #665ae1;
+    border-radius: 20.5px;
+    width: 130px;
+    height: 41px;
+    border: none;
+    font-weight: 600px;
+    font-size: 24px;
+    line-height: 29px;
+    cursor: pointer;
+    color: #000000;
+}
+
+h1{
+    font-weight: 900;
+    font-size: 100px;
+    line-height: 122px;
+    color: #515151
+}
+
+h2{
+    font-weight: 500;
+    font-size: 58px;
+    line-height: 71px;
+    color:#515151
+}
+
+p{
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 29px;
+    color: #515151;
+    width: 600px;
+    margin-top: 30px;
+    margin-bottom: 36px;
+}
+
+.button-explore{
+    background: #adff00;
+    border-radius: 30.5px;
+    width: 239px;
+    height: 64px;
+    border: none;
+    cursor: pointer;
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+    font-weight: 700px;
+    font-size: 28px;
+    line-height: 34px;
+    color: #000000;
+}
+
+.link-header:active{
+    opacity: 0.5;
+}
+
+.link-header:hover{
+    opacity: 0.8;
+}
+
+.button-header:hover{
+    opacity: 0.7;
+}
+
+.button-header:active{
+    opacity: 0.5;
+}
+
+.link-learn-more:hover{
+    opacity: 0.8;
+}
+
+.link-learn-more:active{
+    opacity: 0.5;
+}
+
+.button-explore:hover{
+    opacity: 0.7;
+}
+
+.button-explore:active{
+    opacity: 0.5;
+}
