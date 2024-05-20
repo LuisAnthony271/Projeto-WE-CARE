@@ -11,4 +11,4 @@
 
 <img src="https://github.com/LuisAnthony271/Projeto-WE-CARE/blob/main/prints/print%20projeto%20-%20WE%20CARE%20Desktop-horz.jpg?raw=true" alt="print-do-projeto-desktop-mobile"/>
 
-### Quer abrir o projeto na integra? Clique <a href="https://luisanthony271.github.io/Projeto-WE-CARE/">aqui</a>.
+### Deseja abrir o projeto na integra? Clique <a href="https://luisanthony271.github.io/Projeto-WE-CARE/">aqui</a>.
